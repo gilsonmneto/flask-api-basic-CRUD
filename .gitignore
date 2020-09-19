@@ -9,3 +9,4 @@ venv/
 pip-selfcheck.json
 pyvenv.cfg
 github-start.bat
+menu.bat
